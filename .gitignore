@@ -1,0 +1,5 @@
+aroma.toml
+__pycache__/
+*.pyc
+.venv/
+.python-version
